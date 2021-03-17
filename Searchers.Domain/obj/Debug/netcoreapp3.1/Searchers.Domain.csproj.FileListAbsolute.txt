@@ -1,0 +1,8 @@
+C:\Docs\JC\devs\coding-challenge\Searchers.Domain\bin\Debug\netcoreapp3.1\Searchers.Domain.deps.json
+C:\Docs\JC\devs\coding-challenge\Searchers.Domain\bin\Debug\netcoreapp3.1\Searchers.Domain.dll
+C:\Docs\JC\devs\coding-challenge\Searchers.Domain\bin\Debug\netcoreapp3.1\Searchers.Domain.pdb
+C:\Docs\JC\devs\coding-challenge\Searchers.Domain\obj\Debug\netcoreapp3.1\Searchers.Domain.AssemblyInfoInputs.cache
+C:\Docs\JC\devs\coding-challenge\Searchers.Domain\obj\Debug\netcoreapp3.1\Searchers.Domain.AssemblyInfo.cs
+C:\Docs\JC\devs\coding-challenge\Searchers.Domain\obj\Debug\netcoreapp3.1\Searchers.Domain.csproj.CoreCompileInputs.cache
+C:\Docs\JC\devs\coding-challenge\Searchers.Domain\obj\Debug\netcoreapp3.1\Searchers.Domain.dll
+C:\Docs\JC\devs\coding-challenge\Searchers.Domain\obj\Debug\netcoreapp3.1\Searchers.Domain.pdb

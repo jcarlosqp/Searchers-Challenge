@@ -1,0 +1,14 @@
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\obj\Debug\netcoreapp3.1\Searchers.Application.csprojAssemblyReference.cache
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\obj\Debug\netcoreapp3.1\Searchers.Application.AssemblyInfoInputs.cache
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\obj\Debug\netcoreapp3.1\Searchers.Application.AssemblyInfo.cs
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\obj\Debug\netcoreapp3.1\Searchers.Application.csproj.CoreCompileInputs.cache
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\bin\Debug\netcoreapp3.1\Searchers.Application.deps.json
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\bin\Debug\netcoreapp3.1\Searchers.Application.dll
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\bin\Debug\netcoreapp3.1\Searchers.Application.pdb
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\bin\Debug\netcoreapp3.1\Searchers.Domain.dll
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\bin\Debug\netcoreapp3.1\Searchers.Infrastructure.dll
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\bin\Debug\netcoreapp3.1\Searchers.Domain.pdb
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\bin\Debug\netcoreapp3.1\Searchers.Infrastructure.pdb
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\obj\Debug\netcoreapp3.1\Searchers.Application.csproj.CopyComplete
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\obj\Debug\netcoreapp3.1\Searchers.Application.dll
+C:\Docs\JC\devs\coding-challenge\Searchers.Application\obj\Debug\netcoreapp3.1\Searchers.Application.pdb

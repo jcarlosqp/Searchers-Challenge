@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Presentation\\Searchers.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Application\\Searchers.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Application\\Searchers.Application.csproj",
+        "projectName": "Searchers.Application",
+        "projectPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Application\\Searchers.Application.csproj",
+        "packagesPath": "C:\\Users\\Juan Carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Domain\\Searchers.Domain.csproj": {
+                "projectPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Domain\\Searchers.Domain.csproj"
+              },
+              "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Infrastructure\\Searchers.Infrastructure.csproj": {
+                "projectPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Infrastructure\\Searchers.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Domain\\Searchers.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Domain\\Searchers.Domain.csproj",
+        "projectName": "Searchers.Domain",
+        "projectPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Domain\\Searchers.Domain.csproj",
+        "packagesPath": "C:\\Users\\Juan Carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Infrastructure\\Searchers.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Infrastructure\\Searchers.Infrastructure.csproj",
+        "projectName": "Searchers.Infrastructure",
+        "projectPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Infrastructure\\Searchers.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Juan Carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Domain\\Searchers.Domain.csproj": {
+                "projectPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Domain\\Searchers.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Presentation\\Searchers.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Presentation\\Searchers.Presentation.csproj",
+        "projectName": "SearchApp",
+        "projectPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Presentation\\Searchers.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Juan Carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Application\\Searchers.Application.csproj": {
+                "projectPath": "C:\\Docs\\JC\\devs\\coding-challenge\\Searchers.Application\\Searchers.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
